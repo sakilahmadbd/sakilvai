@@ -80,14 +80,14 @@ logo = """
 
 ---------------------------------------------
 \033[1;96m|-------+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-----|
-\033[1;96m|               Pak Anonymous               |
+\033[1;96m|               SAKIL VAI             |
 \033[1;96m|This Tool is Only for Bangladesh FB Acounts|
 \033[1;96m|------+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+------|
 
 \033[1;91m [⚡\033[1;97mAuthor Name: Sakil Ahmad     ⚡\033[1;91m]
-\033[1;91m [⚡\033[1;97mYutube Chnl: Pak Anonymous ⚡\033[1;91m]
+\033[1;91m [⚡\033[1;97mYutube Chnl: Doha Tech BD⚡\033[1;91m]
 \033[1;91m [⚡       \033[1;97mFrom: Bangladesh      ⚡\033[1;91m]
-\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHuntter\033[1;95m-_-_-_-_-_-_-_-_-»
+\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mSakilVai\033[1;95m-_-_-_-_-_-_-_-_-»
 """
 
 def tik():
@@ -122,9 +122,9 @@ print  """
 \033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHuntter\033[1;95m-_-_-_-_-_-_-_-_-»
 \033[1;92mNote1: Enter Tool usernam and Password 
 \033[1;92mNote2: This Tool is only for Bangladesh
-\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHuntter\033[1;95m-_-_-_-_-_-_-_-_-»
+\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mSakilVai\033[1;95m-_-_-_-_-_-_-_-_-»
  """
-CorrectUsername = "Huntter"
+CorrectUsername = "Sakilboss"
 CorrectPassword = "Sakilvai"
 
 loop = 'true'
@@ -133,7 +133,7 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;91m \x1b[1;91mTool Password \x1b[1;91m: \x1b[1;92m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:Babar_Ali
+            print "Logged in successfully as " + username #Dev:Sakil_Vai
 	    time.sleep(2)
             loop = 'false'
         else:
